@@ -19,6 +19,9 @@ set :js_dir, 'javascripts'
 set :images_dir, 'images'
 set :fonts_dir, 'fonts'
 
+# set :build_dir, 'my_build_dir'
+
+
 # Activate the syntax highlighter
 activate :syntax
 ready do
